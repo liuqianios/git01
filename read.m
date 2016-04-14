@@ -4,4 +4,5 @@ are you ready!
 the master
 modify
 git tracks changes
-creating a new branch is quick two .
+creating new branch is quick and simple.
+
